@@ -43,7 +43,7 @@ int PEcount,NEcount=0;
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-/// 1. Global variables to track parity errors and counts
+
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
